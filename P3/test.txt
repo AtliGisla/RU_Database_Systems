@@ -1,0 +1,4 @@
+Create a procedure, fBookManySeats that takes 4 input parameters (schedule ID,
+customerssn,firstseatnumberandhowmanyseatsitshouldbook)and makesabooking
+for thegivennumber ofseats, starting on the first seat number provided and booking
+consecutiveseatstothegivencustomer.

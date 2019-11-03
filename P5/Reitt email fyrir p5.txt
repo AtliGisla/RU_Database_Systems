@@ -1,0 +1,18 @@
+Sæll Hjörleifur
+
+
+Ég var að skoða einkunnagjöf þína frá Project 5 í Gagnasafnsfræði og er með spurningar varðandi hana.
+
+
+Í bæði Coffees og Projects er tafla sem er ennþá með functional dependency issue og er þar að leiða ekki í fullkomnu normal formi. Samt er einkunnagjöfin bara u.þ.b 56% fyrir þann hluta. Það er bæði dregið frá fyrir að hafa vitlaust normal form en svo eru töflunar ekki dæmdar ein og sér, en bara dregið niður fyrir "Table Missing". Ætti þetta ekki að vera eins og í stærðfræði prófum þar sem ef spurning A leiðir B og maður fær A vitlaust getur maður ennþá utfært B ef ferlið er rétt.
+
+
+Í skýrsluni og í Populate.SQL er virknin og útskýring rétt ef það svar í decompose hefði verið rétt.
+
+
+Ég þar með spyr þig um að endurlýta á Project 5 með þetta í huga.
+
+
+Kveðja Atli Gíslason
+
+

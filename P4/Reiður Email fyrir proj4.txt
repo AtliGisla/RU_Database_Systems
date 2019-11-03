@@ -1,0 +1,21 @@
+@guðmundur freyr jónsson
+
+Sæll Guðmundur
+
+
+Ég var að fara yfir einkunnagjöfina fyrir Project 4 í Gagnasafnafræði og hef nokkrar spurningar varðandi einkunnagjöfina:
+
+
+- Í Item 4 erum við dregnir niður fyrir incorrect komment í report. Ég leit á reportið og fann að við töluðum um hvernig við túlkuðum útskýringuna fyrir "Opposes" töfluna frá verkefnalýsinguni og finnst þar að leiða skrýtið að það er dregið niður fyrir að við vorum í samræðum um töflustrúkturinn sem er það sem spurning eitt í reportinu snýst um.
+
+
+- Í Item 5 erum við dregnir niður fyrir incorrect komment í report varðandi "Linking". Linking kemur ekki fram í reportinu sem kemur þess á óvart að við höfum verið dregnir niður því mig minnir ekki að það koma fram að þyrfti að ræða hverja töflu í reportinu. Ástæða okkar að Linking var ekki í reportinu er af því okkur fannst ekkert óskýrt um lýsinguna á töfluni, það er ekki alvarlegur munur á Linking í ER diagram og í SQL kóðanum, og enginn alvarleg breyting þegar við færðum diagrammið yfir í kóðanum , sem eru einu umræðuefni skýrslunar.
+
+
+- Í Item 10 erum við dregnir niður vegna vöntun á Grant Review töflu. Í skýrsluni útskýrum við virknina þar á bakvið þar sem Grant Review er skylda við Grant, og að það er 1 to 1 tengsl þar á milli. Það vill segja að við tökum ekki meiri pláss í grunninum og að við sleppum við að þurfa triggera til að passa upp á töfluna. Allt í allt er einfaldara að blanda þessum töflum og hafa venslin þar á milli, sem við töluðum um í punkti tvö í Reportinu okkar.
+
+
+Fyrir utan þetta fannst okkur einkunnagjöfin mjög réttlát og viðeigandi. Við vonum að þú pælir í punktunum hér að ofan og íhugar að hækka einkunn okkar.
+
+Kveðja Atli Gíslason, Nökkvi Karlsson, og Sigurður Kalman Oddson
+(atlig17, nokkvi17, sigurduro17)
